@@ -4,6 +4,8 @@
 
 This repository provides versions for the package [useraccounts:flow-routing](https://github.com/meteor-compat/useraccounts-flow-routing/) that are compatible with latest Meteor. This is necessary because the author is not maintaining package anymore.
 
+If you use [ostrio:flow-router-extra](https://atmospherejs.com/ostrio/flow-router-extra) you should use this package [useraccounts:flow-routing-extra](https://atmospherejs.com/useraccounts/flow-routing-extra).
+
 ## Changes
 - v1.15.0
     - `api.versionsFrom` on `Package.onUse` was changed from `1.0.3` to `2.4`.
